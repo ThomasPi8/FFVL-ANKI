@@ -1,5 +1,11 @@
 # 🪂 FFVL-ANKI
 
+## ⚠️ Avertissement
+
+Ce deck est un **outil de révision complémentaire**. **Il ne se substitue pas à une formation en école de vol libre labellisée FFVL**. Les questions proviennent de la base officielle de la [FFVL](https://ffvl.fr).
+
+---
+
 > Deck Anki prêt à l'import pour réviser le **QCM des brevets de parapente** de la Fédération Française de Vol Libre.
 
 [![FFVL](https://img.shields.io/badge/Source-FFVL-0a7ccc?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==)](https://efvl.ffvl.fr/qcm_brevets)
