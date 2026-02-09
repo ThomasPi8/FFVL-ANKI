@@ -15,9 +15,9 @@
 
 | Niveau | Cartes | Description |
 |--------|-------:|-------------|
-| 🟢 **Vert** | 170 | Brevet initial — premiers vols |
-| 🔵 **Brevet** | 365 | Brevet de pilote — pilote autonome |
-| 🟠 **Confirmé** | 175 | Brevet de pilote confirmé — cross |
+| 🟢 **Vert** | 170 | Brevet initial |
+| 🔵 **Brevet** | 365 | Brevet de pilote |
+| 🟠 **Confirmé** | 175 | Brevet de pilote confirmé |
 
 ### Thématiques
 
